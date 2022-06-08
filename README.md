@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ozer</h1>
 <h3 align="center">A passionate frontend developer from Istanbul</h3>
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m full time chess player
 
-- 📝 I regularly write articles on [https://ozer.dev](https://ozer.dev)
-
-- 💬 Ask me about **React, Vue and Angular**
+- 📝 I rarely write articles on [https://ozer.dev](https://ozer.dev)
 
 - 📫 How to reach me **ozergul@yandex.com**
 
