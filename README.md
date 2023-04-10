@@ -3,8 +3,6 @@
 
 - 🌱 I’m full time chess player
 
-- 📝 I rarely write articles on [https://ozer.dev](https://ozer.dev)
-
 - 📫 How to reach me **ozergul@yandex.com**
 
 <h3 align="left">Connect with me:</h3>
